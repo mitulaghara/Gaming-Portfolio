@@ -41,3 +41,18 @@ It includes details about my tournaments, setup, and community involvement — p
 
 ## 📂 Project Structure
 
+Gaming-Portfolio/
+├── index.html # Main webpage
+├── style.css # All styles and responsive design
+└── script.js # JS for menu toggle and animations
+
+---
+
+## 💡 How to Use Locally
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/mitulaghara/Gaming-Portfolio.git
+
+
+2. Open the folder : cd Gaming-Portfolio
